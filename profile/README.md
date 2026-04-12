@@ -22,6 +22,6 @@ The main output of this project is a functional financial management platform eq
 
 | Repository | Tech Stack |
 | :--- | :--- |
-| [Frontend](https://github.com/username/repo-frontend) | React.js (Vite), Tailwind |
+| [Frontend](https://github.com/Kid-Banker/KidBankerApp) | React.js (Vite), Tailwind |
 | [Backend](https://github.com/Kid-Banker/KidBankerAPI) | Node.js (Express), Supabase |
-| [UI Design](https://github.com/username/repo-ui) | Figma |
+| [UI Design](https://s.id/KidBankerFigma) | Figma |
