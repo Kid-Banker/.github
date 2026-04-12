@@ -8,7 +8,7 @@ The main output of this project is a functional financial management platform eq
 
 ## Our Team CC26-PS007
 
-|          Nama          | Cohort ID  |        Learning Path        |      Specified Role      |
+|          Name          | Cohort ID  |        Learning Path        |      Specified Role      |
 |:---------------------:|:----------:|:----------------:|:----------------:|
 | Muhammad Dimas Susilo | CFS065D6Y199 | Full Stack Developer | Front End Developer |
 | Air Langga Ali Syahbani | CFS065D6Y210 | Full Stack Developer | Front End Developer |
