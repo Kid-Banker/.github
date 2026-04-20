@@ -25,3 +25,4 @@ The main output of this project is a functional financial management platform eq
 | [Frontend](https://github.com/Kid-Banker/KidBankerApp) | React.js (Vite), Tailwind |
 | [Backend](https://github.com/Kid-Banker/KidBankerAPI) | Node.js (Express), Supabase |
 | [UI Design](https://s.id/KidBankerFigma) | Figma |
+| [Live Demo](https://kidbanker.vercel.app) | Vercel |
